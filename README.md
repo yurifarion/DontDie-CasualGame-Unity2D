@@ -9,7 +9,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 
-<img src="sc_1.png" alt="exemplo imagem">
+<img src="sc_1_dontdie.png" alt="exemplo imagem">
 
 > Don't die is a game i made in 1 week back in 2019, you need to succed in different room that have different kinds of challenges.
 > 
